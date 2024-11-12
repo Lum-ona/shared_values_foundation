@@ -1,0 +1,399 @@
+{
+  "pages": [
+    { "pageName": "map" },
+    {
+      "pageName": "home",
+      "sections": [
+        {
+          "sectionNumber": 0,
+          "title": "Who We Are",
+          "content": [
+            {
+              "paragraphs": [
+                {
+                  "par-number": 0,
+                  "p": "Founded in 2014, Shared Values Foundation (SVF) is a Kenyan NGO inspired by global sustainable development principles outlined in the Social Responsibility ISO 26000 guidelines. Guided by our SCAPII values, we strive for equity in all our charitable endeavors, collaborating with like-minded individuals and organizations. Since inception, SVF has partnered with donors like the African Circle of Hope Foundation and the Gstaad Rotary Club to make strides in community development across Meru, Nairobi, and Muranga counties. Achievements include improving sanitation at St. Lucy’s Primary School for the Blind, distributing food to over 550 during COVID-19, sponsoring secondary education for 300 students annually, supporting 1800 girls with menstrual hygiene, and conducting medical camps benefitting 500 individuals. Additionally, SVF surveyed FGM in Samburu, engaging with survivors and planning expansion to all 21 hotspot counties. Focus areas include education, child welfare, and environmental concerns."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 1,
+          "title": "We Change Lives Through Shared Values",
+          "content": [
+            {
+              "paragraphs": [
+                {
+                  "par-number": 0,
+                  "h2": "Our Vision",
+                  "p": "Thriving communities with healthy and sustainable livelihoods."
+                },
+                {
+                  "par-number": 1,
+                  "h2": "Our Mission",
+                  "p": "To empower and build thriving communities in Kenya by unlocking the latent potential in vulnerable men, women, youth and children through investments in their health and well-being, education and livelihoods, in collaboration with like-minded organizations who share our vision and values."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2,
+          "title": "Core Values (SCAPII)",
+          "content": [
+            {
+              "paragraphs": [
+                {
+                  "par-number": 0,
+                  "h2": "Social Responsibility",
+                  "p": "We are conscious of the development gaps in our communities, and the positive impacts our programs have on livelihoods."
+                },
+                {
+                  "par-number": 1,
+                  "h2": "Compassion",
+                  "p": "We lead with our hearts, recognizing the difficulty experiences our communities have to contend with."
+                },
+
+                {
+                  "par-number": 2,
+                  "h2": "Accountability",
+                  "p": "We deliver on our promise; we produce desired results."
+                },
+                {
+                  "par-number": 3,
+                  "h2": "Professionalism",
+                  "p": "We embrace expertise and technology in our programs for optimum results."
+                },
+                {
+                  "par-number": 4,
+                  "h2": "Inclusivity",
+                  "p": "We involve the community at every level of decision-making."
+                },
+                {
+                  "par-number": 5,
+                  "h2": "Integrity",
+                  "p": "We embrace a culture that promotes transparency, honesty, and accountability."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 3,
+          "title": "Where we Work",
+          "content": [
+            {
+              "paragraphs": [
+                {
+                  "par-number": 0,
+                  "p": "Shared Values Foundation’s programming mandate includes 19 counties click here of Kenya, of which 12 are Arid and Semi-Arid Lands (ASALs) and 7 non-ASAL. We have initially done some work in Nairobi, Muranga and Meru and getting our foot prints in Isiolo and Samburu counties, eventually planning to reach Marsabit and concentrate in this cluster; hoping to venture into the other counties as we grow and raise the necessary resources. Our entry into the listed counties is informed by overwhelming needs of their populations."
+                },
+                {
+                  "par-number": 1,
+                  "p": "The counties, especially the ASAL one, are characterized by general lack of natural resources and are perennially beset with food and nutrition-poverty owing to encyclical droughts which often wipe out their one stream source of livelihood; livestock and have to start all over again when rains return that are also short-lived and the cycle is repeated."
+                },
+                {
+                  "par-number": 2,
+                  "p": "The non-ASAL counties are on the other hand characterized by good weather, adequate natural resources that support their livelihoods but they also have pockets of extremely poor rural (and urban slum) folks who are perpetually in need of relief food during periods of drought, hence experiencing occasional cycles of food insecurity."
+                },
+                {
+                  "par-number": 3,
+                  "p": "In both cases, poverty in turn affects the participation of children, youth and women in education, social and economic life of their country. Our choice of the counties, therefore and the proposed interventions are aimed at empowering the populations and ensuring that they access the basic services and rights so they can develop themselves, give their children a better future and be able to contribute to national development."
+                },
+                {
+                  "par-number": 4,
+                  "p": "We embrace expertise and technology in our programs for optimum results."
+                },
+                {
+                  "par-number": 5,
+                  "p": "We therefore, work in rural and slum areas with the down and middle stream populations where there is prevalence of educational, social and economic inequality to bridge the resource, knowledge and skill gaps."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 4,
+          "title": "Community Development Issues",
+          "content": [
+            {
+              "paragraphs": [
+                {
+                  "par-number": 0,
+                  "p": "The world over Kenya included, children, youth and women are the section of population often left behind socially and economically and more vulnerable to social injustices, internal conflicts, impacts of climate change, diseases such as HIV/AIDS and COVID- knowledge19, knowledge and skills gaps."
+                },
+                {
+                  "par-number": 1,
+                  "p": "This is pushing more and more of the vulnerable populations into poverty and retrogressive activities such as human trafficking, prostitution, and crime for survival. Phenomenal increase in cases of mental illnesses and suicides is also attributed to these challenges."
+                },
+                {
+                  "par-number": 2,
+                  "p": "For girls and young women, coercion into inhuman cultural practices like early marriages, FGM and child labour which are common in several northern Kenya cultures is still a major concern of our times."
+                },
+                {
+                  "par-number": 3,
+                  "p": "Shared Values Foundation has taken up the challenge to attempt to address these issues by dealing primarily with the root causes as well as the impacts, aiming to empower them by equipping them with the right knowledge, skills, attitudes and the wherewithal to confront their challenges, achieve a turnaround, particularly in their livelihoods and become active and productive participants in their own development and that of our country."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 5,
+          "title": "Our Approach",
+          "content": [
+            {
+              "paragraphs": [
+                {
+                  "par-number": 0,
+                  "p": "Shared Values Foundation employs an inclusive and integrated approach to facilitate programs that lead to no poverty, zero hunger, promotion of good health and wellbeing and quality education, having clean water and sanitation in the communities, promotion of decent work and economic growth, reduced inequalities, climate action initiatives, promotion of peaceful, just and strong institutions and enabling partnership and collaboration through shared values. The approaches include community mobilization and animation, supporting formal and non-formal education for children and youth while promoting basic literacy and numeracy in the adult populations including digital knowledge and skills and financial literacy, support development and implementation of community driven income generating initiatives, support climate action programs including knowledge on climate mitigation and adaptation, and small enterprises particularly in agribusiness among others."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 6,
+          "title": "Programmes and Interventions",
+          "content": [
+            {
+              "paragraphs": [
+                {
+                  "par-number": 0,
+                  "p": "Faithful to our core values, Shared Values Foundation’s programs are geared to supporting the humanity, good causes and the realization of Sustainable Development Goals; particularly, SDG’s 1, 3. 4, 5, 6, 8 and 13, through our work with Kenyan communities. Our route to programing is what we call Pathways to Prosperity (P2P) which encompass quality and equitable Education, basic health and well-being, gender, safe water and sanitation, environmental health and climate action, and socio-economic empowerment programmes.",
+                  "button": { "text": "Ongoing Programmes", "href": "" }
+                },
+                {
+                  "par-number": 1,
+                  "span": "01",
+                  "h2": "Quality and Equitable Education.",
+                  "p": "Shared Values Foundation focuses on providing equitable access to quality education for vulnerable children, collaborating with local government and the Ministry of Education, addressing barriers through support services like learning materials and psychosocial support, community mobilization to challenge cultural practices, and partnering with others in the sector to facilitate innovation and scale, aiming to support children and youth through formal, non-formal, and vocational pathways towards sustainable livelihoods."
+                },
+                {
+                  "par-number": 2,
+                  "span": "02",
+                  "h2": "Basic Health and Wellbeing.",
+                  "p": "Communities facing severe health challenges due to lack of access to basic services and cultural barriers are supported by Shared Values Foundation through partnerships and initiatives addressing issues like malnutrition, cultural practices, and preventive healthcare, aiming for sustainable impact."
+                },
+                {
+                  "par-number": 3,
+                  "span": "03",
+                  "h2": "Socio-Economic Empowerment",
+                  "p": "SVF addresses agricultural and pastoralist communities' vulnerabilities to climate change in eight target counties through sustainable livelihood programs, including training in modern farming techniques, access to capital, climate change adaptation, and market linkages, fostering resilience and economic empowerment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 7,
+          "title": "The SVF Team",
+          "content": [
+            {
+              "paragraphs": [
+                {
+                  "par-number": 0,
+                  "h2": "Founders",
+                  "members": [
+                    {
+                      "member-number": 0,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124562/lucy_dtz1dt.jpg",
+                      "name": "Ms Lucy Kiria",
+                      "role": "Founder",
+                      "desc": "The inspiration to start some venture that gives back to society was always latent, ever there inside my heart. My father the late Japhet Kiria and our family friend the late Gabriel Minder are the one who finally ignited it."
+                    },
+                    {
+                      "member-number": 1,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124563/gabriel_ee8nxz.png",
+                      "name": "Gabriel G. Minder, PhD, The Late",
+                      "role": "Co-Founder",
+                      "desc": "He was multilingual, Cambridge and Zurich-trained and Geneva and Geneva-based member of the Swiss Engineering Academy."
+                    }
+                  ]
+                },
+                {
+                  "par-number": 1,
+                  "h2": "Board of Directors",
+                  "p": "Our leadership team comprising the board, management and staff hail from the academia, medicine, engineering, finance, business, media, and faith-based organization, among others. They leverages their professional, corporate, and personal expertise, experience, social capital and influence to raise support and resources to make an impact, without visible hierarchies nor special titles.",
+                  "members": [
+                    {
+                      "member-number": 0,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124563/lucy_cfuzzg.png",
+                      "name": "Mrs Lucy Kathurima",
+                      "role": "CEO",
+                      "desc": "The inspiration to start some venture that gives back to society was always latent, ever there inside my heart. My father the late Japhet Kiria and our family friend the late Gabriel Minder are the one who finally ignited it."
+                    },
+                    {
+                      "member-number": 1,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124563/patrick_txiibf.png",
+                      "name": "Patrick Mwitia",
+                      "role": "Member/Treasurer",
+                      "desc": "He is currently the Area Service Manager/Regional Head of Customer Service with Buhler AG Switzerland East Africa Representative office, Nairobi."
+                    },
+                    {
+                      "member-number": 2,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124564/mercy_m6xzxd.png",
+                      "name": "Mercy Nderitu",
+                      "role": "Member/Finance",
+                      "desc": "She currently holds the position of General Manager, Consulting and Financial Services at PowerTalk, providing financial literacy education to both individuals and organizations.."
+                    }
+                  ]
+                },
+                {
+                  "par-number": 2,
+                  "h2": "Advisors",
+                  "members": [
+                    {
+                      "member-number": 0,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124564/sunil_if82ow.png",
+                      "name": "Dr . Sunil Vinayak",
+                      "role": "Member, Health Services (Projects) - Board Secretary",
+                      "desc": "Dr. Vinayak hold memberships with the American Orthodontic Society (AOS); International Association of Othodontics (IAO); British Orthodontic Society (BOS); is a Fellow of the Royal Society of Health (FRSH); and Fellow of the Academy of Dentistry International (FADI)."
+                    },
+                    {
+                      "member-number": 1,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124565/vincent_jfrg6m.png",
+                      "name": "Vincent Maranngu, MA",
+                      "role": "Chairman",
+                      "desc": "Vincent has worked extensively in the co-operative movement and rural finance as a consultant."
+                    },
+                    {
+                      "member-number": 2,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124563/eunice_tnsp87.png",
+                      "name": "Dr. Eunice Gatongi",
+                      "role": "Member/Health Services (Projects)",
+                      "desc": "She currently works with the Kenyatta National Referral Hospital as a Paediatric dentist."
+                    },
+                    {
+                      "member-number": 3,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124561/betty_vdbuvj.png",
+                      "name": "Betty Kiruki",
+                      "role": "Member/Resource Mobilisation",
+                      "desc": "Betty is currently a freelance journalist and communications consultant in Nairobi."
+                    },
+                    {
+                      "member-number": 4,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124563/don_cja6en.png",
+                      "name": "Don Howard",
+                      "role": "Partner, U.S.A.; on the Advisory Board",
+                      "desc": "Don and his wife Pat created SCOPE (School Communities Offering Projects that Empower), an NGO that focuses on self-empowerment."
+                    },
+                    {
+                      "member-number": 5,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124562/charles_yrh9gk.png",
+                      "name": "Charles Mwiti",
+                      "role": "Member/Partnerships &amp; Resource Mobilisation",
+                      "desc": "Charles is the Founder and CEO of Lindberg Holidays and Safaris, an organization with widespread networks with international community-based organizations."
+                    },
+                    {
+                      "member-number": 6,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124564/roland_k21mjy.png",
+                      "name": "Roland",
+                      "role": "Partner, Sweden",
+                      "desc": "Roland is owner and manager of a 150-hectare Swedish forest farm, mainly timber for sawmills and wood for paper pulp. He is also a consultant and forest farmer."
+                    }
+                  ]
+                },
+                {
+                  "par-number": 3,
+                  "h2": "Staff, Volunteers & Interns",
+                  "members": [
+                    {
+                      "member-number": 0,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124564/philip_do72gm.png",
+                      "name": "Philip Maina Gatongi",
+                      "role": "Member/Projects",
+                      "desc": "Philip is a Project Architect at the United Nations Office of Project Services, Nairobi."
+                    },
+                    {
+                      "member-number": 1,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124564/shanil_o1cval.png",
+                      "name": "Dr. Shalin Vinayak",
+                      "role": "Member/Health Services (Projects)",
+                      "desc": "Dr. Shalin Vinayak is a young and passionate dentist who graduated as a Doctor of Dental Medicine."
+                    },
+                    {
+                      "member-number": 2,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124565/tatyana_ycqsqd.png",
+                      "name": "Tatyana Mukami",
+                      "role": "Member/Liaison",
+                      "desc": "Tatyana holds a first degree in Economics and International Development, and is pursuing Master’s Degree in commerce. She has vast experience in the field of development and financial-economic impact and currently works for Pam Golding Properties as a Property Consultant."
+                    },
+                    {
+                      "member-number": 3,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124562/jeanie_xkanvg.png",
+                      "name": "Jeanine Naitore",
+                      "role": "Member, Liaison, Calgary - Canada",
+                      "desc": "Jeanine holds a bachelor’s degree in architecture, and is currently pursuing a second one in Business Administration at the University of Calgary, Canada."
+                    },
+                    {
+                      "member-number": 4,
+                      "image": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731124564/ray_n7prww.png",
+                      "name": "Ray Muriiki Kathurima",
+                      "role": "",
+                      "desc": "Ray is a budding entrepreneur and an undergraduate at Strathmore University."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 8,
+          "title": "Collaboration and Partnerships",
+          "content": [
+            {
+              "paragraphs": [
+                {
+                  "par-number": 0,
+                  "p": "Shared Values Foundation recognizes the power of community. As such, we aim to create a strong network of individuals, groups, donors and organizations with common values to enable us achieve our mission. Our current partners and collaborators include:"
+                },
+                {
+                  "par-number": 1,
+                  "images": [
+                    {
+                      "name": "Africa Circle of Hope",
+                      "image_url": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731125404/client-1_ud1gmt.jpg"
+                    },
+                    {
+                      "name": "Lindberg",
+                      "image_url": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731125405/client-2_zgrxlw.jpg"
+                    },
+                    {
+                      "name": "Smiles Africa",
+                      "image_url": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731125405/client-4_hyr3rd.png"
+                    },
+                    {
+                      "name": "Fowcus",
+                      "image_url": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731125404/client-9_cprssz.png"
+                    },
+                    {
+                      "name": "Anti-FGM board",
+                      "image_url": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731125414/client-7_jqyldv.jpg"
+                    },
+                    {
+                      "name": "Valley Hope",
+                      "image_url": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731125397/client-8_yamd4t.jpg"
+                    },
+                    {
+                      "name": "Chandaria Foundation",
+                      "image_url": "https://res.cloudinary.com/dvb5k0lsj/image/upload/v1731125405/client-6_jdf6wj.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    { "pageName": "about" },
+    { "pageName": "health" },
+    { "pageName": "nasike" },
+    { "pageName": "lucyBio" },
+    { "pageName": "economic" },
+    { "pageName": "education" }
+  ]
+}

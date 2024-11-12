@@ -1,0 +1,31 @@
+.preloader {
+  position: fixed; /* Keep the preloader fixed on the screen */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #bd3266;
+  z-index: 9999; /* Ensure it appears above all other elements */
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid #74ac43; /* Light grey background */
+  border-top: 4px solid #f3f3f3; /* Blue spinner color */
+  border-radius: 50%; /* Make the spinner circular */
+  animation: spin 1s linear infinite; /* Animation effect */
+}
+
+/* Keyframes for spinner animation */
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,80 @@
+.objectives {
+  background-color: #b82556;
+}
+.objectives .section-title h2 {
+  color: #fff;
+}
+.objectives .content {
+  padding: 30px;
+  background: #74ac43;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.objectives .content h3 {
+  font-weight: 700;
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+.objectives .content p {
+  margin-bottom: 30px;
+}
+
+.objectives .content .more-btn {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 6px 30px 8px 30px;
+  color: #fff;
+  border-radius: 50px;
+  transition: all ease-in-out 0.4s;
+}
+
+.objectives .content .more-btn i {
+  font-size: 14px;
+}
+
+.objectives .content .more-btn:hover {
+  color: #bd3266;
+  background: #fff;
+}
+
+.objectives .icon-boxes .icon-box {
+  text-align: center;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  padding: 40px 30px;
+  width: 100%;
+  transition: 0.3s;
+}
+
+.objectives .icon-boxes .icon-box i {
+  font-size: 40px;
+  color: #bd3266;
+  margin-bottom: 30px;
+}
+
+.objectives .icon-boxes .icon-box h4 {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 30px 0;
+}
+
+.objectives .icon-boxes .icon-box p {
+  font-size: 15px;
+  color: #848484;
+}
+
+.objectives .icon-boxes .icon-box:hover {
+  box-shadow: 0px 5px 25px rgba(0, 0, 0, 0.15);
+}
+
+.objectives .vision h3 {
+  font-size: 38px;
+  font-weight: 600;
+}
+.objectives .vision .icon-boxes .icon-box p {
+  font-size: 18px;
+  font-weight: 500;
+}

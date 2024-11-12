@@ -1,25 +1,66 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { db } from "./FirebaseConfig";
+import { onValue, ref } from "firebase/database";
 
-function App() {
+import Header from "./components/header/Header";
+import Footer from "./components/footer/Footer";
+
+const pages = [
+  "map",
+  "home",
+  "about",
+  "health",
+  "nasike",
+  "lucyBio",
+  "economic",
+  "education",
+];
+
+export default function App() {
+  const [pageData, setPageData] = useState({});
+
+  useEffect(() => {
+    const starCountRef = ref(db, "pages");
+
+    onValue(
+      starCountRef,
+      (snapshot) => {
+        const data = snapshot.val();
+        if (data) {
+          const pageMap = pages.reduce((acc, page) => {
+            acc[page] = data.find((pageData) => pageData.pageName === page);
+            return acc;
+          }, {});
+          setPageData(pageMap);
+        } else {
+          console.log("No data available");
+        }
+      },
+      (error) => console.log("Error fetching data:", error)
+    );
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <BrowserRouter>
+        <Header />
+        <Routes>
+          {pages.map((page, index) => (
+            <Route
+              key={page}
+              path={`/${page === "home" ? "" : page}`}
+              element={React.createElement(
+                require(`./pages/${page}/${
+                  page.charAt(0).toUpperCase() + page.slice(1)
+                }`).default,
+                { data: pageData[page], dataIndex: index }
+              )}
+            />
+          ))}
+        </Routes>
+        <Footer />
+      </BrowserRouter>
     </div>
   );
 }
-
-export default App;
