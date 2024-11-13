@@ -1,4 +1,5 @@
 import React from "react";
+import "./Education.css";
 import img1 from "../../assets/img/PROGRAMMES/education/p1.png";
 import img2 from "../../assets/img/PROGRAMMES/education/p2.png";
 import img3 from "../../assets/img/PROGRAMMES/education/p3.png";
@@ -6,14 +7,14 @@ import img3 from "../../assets/img/PROGRAMMES/education/p3.png";
 export default function Education({ data }) {
   return (
     <section className="inner-page">
-      <section id="programmes" className="portfolio-details">
+      <section id="programmes" className="education-details">
         <div className="section-title">
           <h2>Quality and Equitable Education.</h2>
         </div>
         <div className="container" data-aos="fade-up">
           <div className="row gy-4">
             <div className="col-lg-6">
-              <div className="portfolio-details-slider swiper">
+              <div className="education-details-slider swiper">
                 <div className="swiper-wrapper align-items-center">
                   <div className="swiper-slide">
                     <img src={img1} alt="" />
@@ -49,7 +50,7 @@ export default function Education({ data }) {
             </div>
 
             <div className="col-lg-6">
-              <div className="portfolio-description">
+              <div className="education-description">
                 <p>
                   To alleviate the barriers SVF intervenes by supporting the
                   children with basic needs such as learning materials, learning

@@ -1,18 +1,19 @@
-import React from "react";
+import "./Economic.css";
+
 import img1 from "../../assets/img/PROGRAMMES/socio/p1.png";
 import img2 from "../../assets/img/PROGRAMMES/socio/p3.png";
 
 export default function Economic({ data }) {
   return (
     <section className="inner-page">
-      <section id="programmes" className="portfolio-details">
+      <section id="programmes" className="economic-details">
         <div className="section-title">
           <h2>Socio-Economic Empowerment.</h2>
         </div>
         <div className="container" data-aos="fade-up">
           <div className="row gy-4">
             <div className="col-lg-6">
-              <div className="portfolio-details-slider swiper">
+              <div className="economic-details-slider swiper">
                 <div className="swiper-wrapper align-items-center">
                   <div className="swiper-slide">
                     <img src="" alt="" />
@@ -40,7 +41,7 @@ export default function Economic({ data }) {
             </div>
 
             <div className="col-lg-6">
-              <div className="portfolio-description">
+              <div className="economic-description">
                 <p>
                   Most of them are lack the requisite financial resources or
                   household assets and capacities and skills to scale their

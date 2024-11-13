@@ -15,7 +15,6 @@ export default function Partners({ data, sectionId, dataIndex }) {
   const isAuthorized = process.env.REACT_APP_AUTHORIZED_EMAILS?.split(
     ","
   ).includes(auth.currentUser?.email);
-  console.log(isAuthorized);
 
   // const [editingIndex, setEditingIndex] = useState(null);
   const [editingText, setEditingText] = useState(false);

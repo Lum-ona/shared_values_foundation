@@ -168,18 +168,21 @@
                   "par-number": 1,
                   "span": "01",
                   "h2": "Quality and Equitable Education.",
+                  "route": "education",
                   "p": "Shared Values Foundation focuses on providing equitable access to quality education for vulnerable children, collaborating with local government and the Ministry of Education, addressing barriers through support services like learning materials and psychosocial support, community mobilization to challenge cultural practices, and partnering with others in the sector to facilitate innovation and scale, aiming to support children and youth through formal, non-formal, and vocational pathways towards sustainable livelihoods."
                 },
                 {
                   "par-number": 2,
                   "span": "02",
                   "h2": "Basic Health and Wellbeing.",
+                  "route": "health",
                   "p": "Communities facing severe health challenges due to lack of access to basic services and cultural barriers are supported by Shared Values Foundation through partnerships and initiatives addressing issues like malnutrition, cultural practices, and preventive healthcare, aiming for sustainable impact."
                 },
                 {
                   "par-number": 3,
                   "span": "03",
                   "h2": "Socio-Economic Empowerment",
+                  "route": "economic",
                   "p": "SVF addresses agricultural and pastoralist communities' vulnerabilities to climate change in eight target counties through sustainable livelihood programs, including training in modern farming techniques, access to capital, climate change adaptation, and market linkages, fostering resilience and economic empowerment."
                 }
               ]

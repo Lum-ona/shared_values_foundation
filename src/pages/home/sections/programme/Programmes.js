@@ -4,6 +4,7 @@ import { ref, update } from "firebase/database";
 import EditIcon from "@mui/icons-material/Edit";
 import TextareaAutosize from "react-textarea-autosize";
 import "./Programmes.css";
+import { Link } from "react-router-dom";
 
 export default function Programmes({ data, sectionId, dataIndex }) {
   const { title, content } = data;
@@ -101,9 +102,9 @@ export default function Programmes({ data, sectionId, dataIndex }) {
             )}
           </p>
         )}
-        <a href={`./${paragraphs[index].link}.html`}>
+        <Link to={`/${paragraphs[index].route}`}>
           <button className="btn-learn-more">Learn More</button>
-        </a>
+        </Link>
       </div>
     </li>
   );

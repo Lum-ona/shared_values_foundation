@@ -1,0 +1,73 @@
+.economic-details {
+  padding-top: 40px;
+}
+.economic-details .row {
+  margin-bottom: 5vh;
+}
+.economic-details .container .row:nth-child(4) {
+  margin-bottom: 0;
+}
+
+.economic-details .economic-details-slider img {
+  width: 100%;
+}
+
+.economic-details .economic-details-slider .swiper-pagination {
+  margin-top: 20px;
+  position: relative;
+}
+
+.economic-details
+  .economic-details-slider
+  .swiper-pagination
+  .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: #fff;
+  opacity: 1;
+  border: 1px solid #bd3266;
+}
+
+.economic-details
+  .economic-details-slider
+  .swiper-pagination
+  .swiper-pagination-bullet-active {
+  background-color: #bd3266;
+}
+
+.economic-details .economic-info {
+  padding: 30px;
+  box-shadow: 0px 0 30px rgba(54, 52, 58, 0.08);
+}
+
+.economic-details .economic-info h3 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.economic-details .economic-info ul {
+  list-style: none;
+  padding: 0;
+  font-size: 15px;
+}
+
+.economic-details .economic-info ul li + li {
+  margin-top: 10px;
+}
+
+.economic-details .economic-description {
+  padding-top: 30px;
+}
+
+.economic-details h2 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.economic-details .economic-description p {
+  padding: 0;
+}

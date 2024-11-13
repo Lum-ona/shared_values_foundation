@@ -1,4 +1,4 @@
-import React from "react";
+import "./Health.css";
 import img1 from "../../assets/img/PROGRAMMES/program1.png";
 import img2 from "../../assets/img/PROGRAMMES/program2.png";
 import img3 from "../../assets/img/PROGRAMMES/program3.png";
@@ -6,14 +6,14 @@ import img3 from "../../assets/img/PROGRAMMES/program3.png";
 export default function Health({ data }) {
   return (
     <section className="inner-page">
-      <section id="programmes" className="portfolio-details">
+      <section id="programmes" className="health-details">
         <div className="section-title">
           <h2>Basic Health and Wellbeing.</h2>
         </div>
         <div className="container" data-aos="fade-up">
           <div className="row gy-4">
             <div className="col-lg-6">
-              <div className="portfolio-details-slider swiper">
+              <div className="health-details-slider swiper">
                 <div className="swiper-wrapper align-items-center">
                   <div className="swiper-slide">
                     <img src={img1} alt="" />
@@ -43,7 +43,7 @@ export default function Health({ data }) {
             </div>
 
             <div className="col-lg-6">
-              <div className="portfolio-description">
+              <div className="health-description">
                 <p>
                   This is further complicated by cultural beliefs and practices.
                   All the communities and especially those in ASAL counties are

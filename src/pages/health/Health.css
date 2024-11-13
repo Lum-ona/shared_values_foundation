@@ -1,0 +1,73 @@
+.health-details {
+  padding-top: 40px;
+}
+.health-details .row {
+  margin-bottom: 5vh;
+}
+.health-details .container .row:nth-child(4) {
+  margin-bottom: 0;
+}
+
+.health-details .health-details-slider img {
+  width: 100%;
+}
+
+.health-details .health-details-slider .swiper-pagination {
+  margin-top: 20px;
+  position: relative;
+}
+
+.health-details
+  .health-details-slider
+  .swiper-pagination
+  .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: #fff;
+  opacity: 1;
+  border: 1px solid #bd3266;
+}
+
+.health-details
+  .health-details-slider
+  .swiper-pagination
+  .swiper-pagination-bullet-active {
+  background-color: #bd3266;
+}
+
+.health-details .health-info {
+  padding: 30px;
+  box-shadow: 0px 0 30px rgba(54, 52, 58, 0.08);
+}
+
+.health-details .health-info h3 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.health-details .health-info ul {
+  list-style: none;
+  padding: 0;
+  font-size: 15px;
+}
+
+.health-details .health-info ul li + li {
+  margin-top: 10px;
+}
+
+.health-details .health-description {
+  padding-top: 30px;
+}
+
+.health-details h2 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.health-details .health-description p {
+  padding: 0;
+}
